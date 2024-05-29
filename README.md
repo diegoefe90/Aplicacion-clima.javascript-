@@ -2,6 +2,8 @@
 # Aplicación de Clima
 Creación de una aplicación de clima utilizando JavaScript. La aplicación mostrará datos en tiempo real del clima de una ciudad específica utilizando la API de OpenWeatherMap.
 
+## Link aplicacion desplegada: https://aplicacion-clima-javascript-7kib8aruu.vercel.app
+
 ## Configuración inicial
 
 Antes de comenzar, necesitarás obtener una clave de API de OpenWeatherMap. Sigue estos pasos para obtener tu propia clave de API:
